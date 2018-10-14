@@ -1,2 +1,2 @@
 # Procedural-PD-Patches
-Patches from articles and tutorials
+These are the Pure Data patches that correspond to tutorials and articles I have published
